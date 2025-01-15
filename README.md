@@ -68,12 +68,6 @@ The deep learning model comprises the following:
 - Fully connected layers for classification.
 - Softmax activation for multiclass emotion output.
 
-## Results
-The model achieves the following results on the test dataset:
-- Accuracy: **XX%**
-- Precision: **XX%**
-- Recall: **XX%**
-
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
